@@ -1,0 +1,40 @@
+@media (max-width: 575px){
+    p.content-text {
+        padding: 0px;
+        color: #5f5656;
+    }
+    .content.text-center {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    section.content-wrapper {
+        margin-top: 0px;
+    }
+    .inner-wrapper.text-center {
+        margin:6px;
+    }
+    .portfolio-heading {
+        font-size: 35px;
+        line-height: 45px;
+       
+    }
+    p.portfolio-text {
+        font-size: 15px;
+    }
+    button.quote {
+        width: auto;
+    }
+    img.img-fluid.image-portfolio {
+        height: auto !important;
+        width: auto !important;
+    }
+    .review.text-center {
+        padding:0px;
+    }
+    .stara {
+        width: auto;
+    }
+    .details {
+        padding: 1px;
+    }
+}
